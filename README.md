@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pinhox
 - 👀 I’m interested in learning Python, Node.js and C
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate to something lol
+- 💞️ I’m looking to collaborate on something lol
 - 📫 How to reach me: gpinho2002@outlook.ocm
 
 <!---
